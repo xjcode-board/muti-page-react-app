@@ -1,0 +1,148 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+figure,
+footer,
+header,
+menu,
+nav,
+section,
+time,
+mark,
+audio,
+video,
+details,
+summary {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  font-family: -apple-system-font, 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  width: 100%;
+  background: transparent;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  position: relative;
+}
+html {
+  overflow: auto;
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+ul {
+  list-style: none;
+}
+ul,
+ol {
+  padding-left: 0;
+  list-style-type: none;
+}
+img {
+  max-width: 100%;
+  border: 0;
+  vertical-align: middle;
+}
+input,
+textarea {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+input:focus::-moz-placeholder {
+  color: transparent;
+}
+button,
+input,
+select,
+textarea {
+  outline: none;
+}
+select {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: none;
+}
+select::-ms-expand {
+  display: none;
+}
+input:-ms-clear {
+  display: none;
+}
+a {
+  text-decoration: none;
+}
+i {
+  font-style: normal;
+}
+* {
+  font-family: "Microsoft YaHei", Helvetica, Verdana, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-focus-ring-color: transparent;
+}
+.hide {
+  display: none;
+}
