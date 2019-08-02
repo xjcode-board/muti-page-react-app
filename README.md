@@ -77,7 +77,7 @@ $ yarn start  或 npm run start
 ### 4 build
 
 ```bash
-$ yarn build 或 npm build
+$ yarn build 或 npm run build
 ```
 
 ### 插件
